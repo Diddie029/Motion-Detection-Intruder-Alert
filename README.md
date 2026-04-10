@@ -1,12 +1,12 @@
 ## ✅ Features
 
-Live camera feed
+Live camera feed 
 
-Motion detection using frame differencing
+Motion detection using frame differencing [FPS]
 
 Bounding boxes around movement
 
-Motion counter
+Motion counter 
 
 Screenshot capture on motion
 
