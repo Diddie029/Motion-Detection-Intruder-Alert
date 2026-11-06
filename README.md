@@ -10,4 +10,4 @@ Motion counter
 
 Screenshot capture on motion
 
-Keyboard controls(q- for quitting the app and s- for saving the screenshots)
+Keyboard Shortcuts-controls(q- for quitting the app and s- for saving the screenshots)
